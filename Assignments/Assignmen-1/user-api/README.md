@@ -110,6 +110,23 @@ node index.js
 
  - ❌ Returns 404 if ID not found
 
+## 📸 API Testing Screenshots
+
+### 1. ✅ GET /users — Fetch all users  
+![GET All Users](./images/get-users.png)
+
+### 2. ✅ GET /users/:id — Fetch user by ID  
+![GET User by ID](./images/get-user-by-id.png)
+
+### 3. ✅ POST /user — Add new user  
+![POST User](./images/add-new-user.png)
+
+### 4. ✅ PUT /user/:id — Update existing user by ID  
+![PUT User](./images/update-user.png)
+
+### 5. ✅ DELETE /user/:id — Delete user  
+![DELETE User](./images/delete-user.png)
+
  ## 🙌 Author
 Sandeep Yadav
 B.Tech CSE | Internshala Assignment
