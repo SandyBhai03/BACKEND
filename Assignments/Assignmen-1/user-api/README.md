@@ -2,6 +2,9 @@
 
 A simple Node.js + Express-based REST API to manage a list of users.
 
+## GitHub Repo Link 
+https://github.com/SandyBhai03/BACKEND/tree/main/Assignments/Assignmen-1/user-api
+
 ---
 
 ## 📚 Features
@@ -45,9 +48,7 @@ user-api/
 1. Clone this repo or download the zip.
 2. Navigate to the project folder:
 
-```bash
 cd user-api
-
 
 2. Install dependencies
 
