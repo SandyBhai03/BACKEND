@@ -3,7 +3,7 @@
 A simple RESTful API built with Node.js, Express, and MongoDB using Mongoose to manage user data.
 
 ## GitHub Repo Link 
-https://github.com/SandyBhai03/BACKEND/tree/main/Assignments/Assignmen-2/restful-api-mongo
+https://github.com/SandyBhai03/BACKEND/tree/main/Assignments/Assignment-2/restful-api-mongo
 
 ---
 
@@ -60,6 +60,13 @@ restful-api-mongo/
 ## 🚀 Installation & Running
 
 1. Clone this repo or download the zip.
+
+1. Clone this repo or download the zip.
+
+```sh 
+https://github.com/SandyBhai03/BACKEND/tree/main/Assignments/Assignment-2/restful-api-mongo.git
+``` 
+
 2. Navigate to the project folder:
 
 cd restful-api-mongo
@@ -167,7 +174,7 @@ node app.js
 ![DELETE User](./images/delete-user-in-thunder-client.png)
 
 #### b. delete user in MongoDB Compass
-![DELETE User](./images/created-new-user-in-compass.png.png)
+![DELETE User](./images/created-new-user-in-compass.png)
 
  ## 🙌 Author
 Sandeep Yadav
