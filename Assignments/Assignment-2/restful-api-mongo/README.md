@@ -3,8 +3,9 @@
 A simple RESTful API built with Node.js, Express, and MongoDB using Mongoose to manage user data.
 
 ## GitHub Repo Link 
+```sh
 https://github.com/SandyBhai03/BACKEND/tree/main/Assignments/Assignment-2/restful-api-mongo
-
+```
 ---
 
 ## 📚 Features
@@ -62,12 +63,14 @@ restful-api-mongo/
 1. Clone this repo or download the zip.
 
 ```sh 
-https://github.com/SandyBhai03/BACKEND/tree/main/Assignments/Assignment-2/restful-api-mongo.git
+https://github.com/SandyBhai03/BACKEND.git
 ``` 
 
 2. Navigate to the project folder:
 
-cd restful-api-mongo
+```sh 
+cd Assignments/Assignment-2/restful-api-mongo
+```
 
 2. Install dependencies
 
