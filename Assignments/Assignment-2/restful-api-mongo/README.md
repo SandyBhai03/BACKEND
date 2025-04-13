@@ -61,8 +61,6 @@ restful-api-mongo/
 
 1. Clone this repo or download the zip.
 
-1. Clone this repo or download the zip.
-
 ```sh 
 https://github.com/SandyBhai03/BACKEND/tree/main/Assignments/Assignment-2/restful-api-mongo.git
 ``` 
@@ -139,19 +137,19 @@ node app.js
 
 ## 1. ✅ POST /user — Create new user:
 
-#### a. Empty MongoDB Compass
+#### i. Empty MongoDB Compass
 ![POST User](./images/empty-compass.png)
 
-#### b. Create user in Thunder Client
+#### ii. Create user in Thunder Client
 ![POST User](./images/create-user.png)
 
-#### c. MongoDB Compass after create new user
+#### iii. MongoDB Compass after create new user
 ![POST User](./images/created-new-user-in-compass.png)
 
-#### d. Email Validation in Thunder Client
+#### iv. Email Validation in Thunder Client
 ![POST User](./images/email-validation.png)
 
-#### e. Duplicate Entry Validation in Thunder Client
+#### v. Duplicate Entry Validation in Thunder Client
 ![POST User](./images/duplicate-validation.png)
 
 ## 2. ✅ GET /users — Fetch all users: 
@@ -163,17 +161,17 @@ node app.js
 
 ## 4. ✅ PUT /user/:id — Update existing user by ID  
 
-#### a. Updated email in Thunder Client
+#### i. Updated email in Thunder Client
 ![PUT User](./images/update-email.png)
 
-#### b. Updated email in MongoDB Compass
+#### ii. Updated email in MongoDB Compass
 ![PUT User](./images/updated-email-in-compass.png)
 
 ## 5. ✅ DELETE /user/:id — Delete user  
-#### a delete user in Thunder Client
+#### i. delete user in Thunder Client
 ![DELETE User](./images/delete-user-in-thunder-client.png)
 
-#### b. delete user in MongoDB Compass
+#### ii. delete user in MongoDB Compass
 ![DELETE User](./images/created-new-user-in-compass.png)
 
  ## 🙌 Author
